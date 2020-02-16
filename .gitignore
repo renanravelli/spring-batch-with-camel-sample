@@ -1,0 +1,6 @@
+HELP.md
+.idea
+target/
+.mvn
+!**/src/main/**
+!**/src/test/**
